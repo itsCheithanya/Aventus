@@ -15,3 +15,7 @@ and may not reflect any disease pattern.
 Note: The test results are interpreted as normal or abnormal based on the
 reference ranges which may be specific to age/gender/ instruments/the
 method of testing.
+
+# UI
+![image](https://github.com/itsCheithanya/Aventus/assets/85927700/f2806f2f-0515-46d5-80a7-5a3f78580d19)
+
